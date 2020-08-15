@@ -8,7 +8,7 @@ This mini-project is a CIFAR-10 Image classifier. The CNN-architecture has been 
 The layers in the CNN-Model are as follows:
 
 ```python
-<tensorflow.python.keras.layers.convolutional.Conv2D at 0x7f5624058cd0>,
+ <tensorflow.python.keras.layers.convolutional.Conv2D at 0x7f5624058cd0>,
  <tensorflow.python.keras.layers.normalization_v2.BatchNormalization at 0x7f55e879b410>,
  <tensorflow.python.keras.layers.convolutional.Conv2D at 0x7f55e879b950>,
  <tensorflow.python.keras.layers.normalization_v2.BatchNormalization at 0x7f55e86d7e90>,
